@@ -1,0 +1,101 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,1200.00
+2,Smartphone,Electronics,800.00
+3,Tablet,Electronics,450.00
+4,Wireless Mouse,Electronics,25.00
+5,Keyboard,Electronics,50.00
+6,Smartwatch,Electronics,200.00
+7,Camera,Electronics,650.00
+8,Headphones,Electronics,150.00
+9,Charger,Electronics,30.00
+10,Drone,Electronics,1200.00
+11,Office Chair,Furniture,150.00
+12,Desk,Furniture,300.00
+13,Lamp,Furniture,50.00
+14,Coffee Table,Furniture,100.00
+15,Sofa,Furniture,500.00
+16,Bookshelf,Furniture,120.00
+17,Air Conditioner,Home Appliances,400.00
+18,Washing Machine,Home Appliances,700.00
+19,Microwave,Home Appliances,150.00
+20,Refrigerator,Home Appliances,900.00
+21,Blender,Home Appliances,80.00
+22,Fan,Home Appliances,30.00
+23,Vacuum Cleaner,Home Appliances,180.00
+24,Iron,Home Appliances,40.00
+25,Oven,Home Appliances,250.00
+26,Spices,Food,5.00
+27,Sugar,Food,3.00
+28,Rice,Food,15.00
+29,Flour,Food,2.50
+30,Tea,Food,3.50
+31,Coffee,Food,4.00
+32,Snacks,Food,1.50
+33,Juice,Food,2.00
+34,Soda,Food,1.00
+35,Chocolate,Food,2.00
+36,Shampoo,Beauty,8.00
+37,Conditioner,Beauty,7.50
+38,Face Cream,Beauty,15.00
+39,Perfume,Beauty,25.00
+40,Toothpaste,Beauty,2.50
+41,Body Lotion,Beauty,5.00
+42,Hair Dryer,Beauty,40.00
+43,Sunscreen,Beauty,12.00
+44,Makeup Kit,Beauty,30.00
+45,Shaving Kit,Beauty,20.00
+46,Men's Jacket,Clothing,60.00
+47,Women's Jacket,Clothing,65.00
+48,Men's Shirt,Clothing,25.00
+49,Women's Shirt,Clothing,28.00
+50,Jeans,Clothing,40.00
+51,Men's Shoes,Clothing,50.00
+52,Women's Shoes,Clothing,55.00
+53,Men's T-shirt,Clothing,15.00
+54,Women's T-shirt,Clothing,18.00
+55,Men's Sweater,Clothing,30.00
+56,Women's Sweater,Clothing,35.00
+57,Men's Pants,Clothing,45.00
+58,Women's Pants,Clothing,50.00
+59,Swimwear,Clothing,20.00
+60,Men's Shorts,Clothing,22.00
+61,Women's Shorts,Clothing,24.00
+62,Watch,Accessories,100.00
+63,Sunglasses,Accessories,30.00
+64,Wallet,Accessories,20.00
+65,Belt,Accessories,15.00
+66,Scarf,Accessories,10.00
+67,Hat,Accessories,12.00
+68,Bags,Accessories,40.00
+69,Backpack,Accessories,35.00
+70,Travel Case,Accessories,50.00
+71,Shoes,Accessories,60.00
+72,Necklace,Jewelry,80.00
+73,Earrings,Jewelry,50.00
+74,Bracelet,Jewelry,40.00
+75,Ring,Jewelry,120.00
+76,Anklet,Jewelry,15.00
+77,Jewelry Set,Jewelry,200.00
+78,Bracelet Set,Jewelry,150.00
+79,Chains,Jewelry,60.00
+80,Stud Earrings,Jewelry,20.00
+81,Smart Home Device,Electronics,150.00
+82,LED Lights,Home Appliances,40.00
+83,Heater,Home Appliances,100.00
+84,Dehumidifier,Home Appliances,120.00
+85,Water Filter,Home Appliances,80.00
+86,Electric Grill,Home Appliances,60.00
+87,Toaster,Home Appliances,35.00
+88,Space Heater,Home Appliances,95.00
+89,Electric Blanket,Home Appliances,45.00
+90,Heated Mattress Pad,Home Appliances,50.00
+91,Air Purifier,Home Appliances,120.00
+92,Coffee Maker,Home Appliances,70.00
+93,Popcorn Maker,Home Appliances,40.00
+94,Electric Kettle,Home Appliances,25.00
+95,Electric Coffee Grinder,Home Appliances,40.00
+96,Food Processor,Home Appliances,80.00
+97,Juicer,Home Appliances,50.00
+98,Tea Kettle,Home Appliances,30.00
+99,Water Dispenser,Home Appliances,100.00
+100,Electric Skillet,Home Appliances,60.00

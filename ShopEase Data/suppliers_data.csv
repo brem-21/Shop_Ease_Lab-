@@ -1,0 +1,671 @@
+supplier_name,supplier_address,email,contact_number,fax,account_number,order_history,contract,supplier_country,supplier_city,country_code
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,468,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,61,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,88,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,353,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,547,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,170,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,393,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,243,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,601,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,566,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,489,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,99,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,563,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,196,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,18,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,328,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,667,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,376,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,449,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,417,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,293,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,315,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,504,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,139,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,15,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,372,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,377,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,271,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,488,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,499,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,136,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,624,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,213,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,531,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,130,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,442,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,660,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,611,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,304,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,438,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,618,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,95,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,472,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,60,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,32,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,272,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,458,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,358,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,612,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,562,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,545,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,339,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,12,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,228,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,311,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,405,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,532,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,152,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,280,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,589,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,594,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,306,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,186,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,662,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,634,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,554,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,588,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,530,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,477,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,637,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,668,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,429,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,246,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,29,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,291,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,460,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,98,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,363,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,435,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,185,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,1,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,587,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,444,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,110,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,478,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,191,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,309,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,571,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,255,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,252,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,253,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,355,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,351,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,569,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,494,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,430,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,224,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,643,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,572,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,307,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,626,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,567,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,535,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,120,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,83,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,65,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,664,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,258,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,590,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,394,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,638,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,151,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,123,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,398,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,625,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,538,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,208,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,440,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,234,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,276,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,58,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,471,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,140,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,212,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,183,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,373,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,43,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,512,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,470,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,432,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,598,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,403,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,263,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,416,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,329,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,216,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,641,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,409,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,447,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,156,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,26,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,281,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,524,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,229,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,573,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,149,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,418,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,561,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,322,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,436,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,375,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,148,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,204,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,105,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,454,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,549,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,250,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,423,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,20,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,41,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,387,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,496,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,84,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,410,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,125,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,349,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,441,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,605,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,536,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,445,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,522,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,162,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,226,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,540,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,326,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,5,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,330,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,327,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,541,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,92,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,262,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,361,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,111,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,467,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,591,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,452,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,481,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,106,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,337,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,628,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,313,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,389,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,161,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,369,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,249,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,584,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,180,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,27,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,595,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,73,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,428,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,348,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,318,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,570,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,390,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,265,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,608,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,622,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,382,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,509,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,153,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,38,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,395,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,639,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,55,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,298,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,649,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,118,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,174,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,297,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,407,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,463,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,661,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,484,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,37,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,656,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,235,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,103,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,172,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,146,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,580,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,173,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,176,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,552,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,46,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,137,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,33,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,78,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,135,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,506,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,539,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,439,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,366,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,459,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,158,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,317,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,555,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,100,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,575,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,614,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,466,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,523,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,259,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,109,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,357,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,2,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,663,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,11,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,67,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,80,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,462,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,474,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,116,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,582,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,378,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,179,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,404,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,81,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,434,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,597,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,383,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,303,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,241,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,308,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,22,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,665,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,3,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,302,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,287,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,211,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,222,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,166,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,50,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,21,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,19,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,443,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,210,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,381,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,8,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,34,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,57,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,529,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,25,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,508,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,49,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,640,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,47,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,557,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,415,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,645,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,448,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,121,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,559,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,332,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,54,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,607,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,633,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,655,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,87,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,392,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,68,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,485,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,122,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,299,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,482,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,86,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,74,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,400,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,275,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,425,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,190,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,143,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,487,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,461,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,270,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,165,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,194,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,150,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,266,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,319,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,175,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,525,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,24,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,592,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,112,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,627,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,6,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,289,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,31,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,320,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,132,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,360,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,345,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,195,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,603,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,593,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,619,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,296,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,163,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,630,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,401,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,413,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,75,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,371,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,521,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,237,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,528,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,206,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,388,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,456,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,9,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,207,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,286,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,205,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,659,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,341,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,28,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,658,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,581,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,364,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,422,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,596,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,480,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,247,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,102,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,97,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,365,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,631,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,239,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,178,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,69,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,490,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,537,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,10,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,244,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,397,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,119,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,406,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,642,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,90,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,242,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,331,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,577,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,556,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,493,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,548,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,517,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,426,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,451,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,292,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,201,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,544,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,455,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,450,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,574,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,510,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,602,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,491,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,503,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,288,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,669,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,568,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,277,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,367,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,420,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,342,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,114,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,77,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,453,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,278,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,479,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,399,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,233,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,670,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,374,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,4,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,343,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,48,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,218,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,335,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,464,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,411,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,131,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,279,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,600,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,519,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,169,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,518,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,578,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,513,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,431,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,147,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,379,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,264,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,476,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,650,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,227,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,236,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,44,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,623,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,347,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,171,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,324,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,620,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,238,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,632,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,336,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,647,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,16,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,71,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,321,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,533,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,52,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,316,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,526,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,35,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,621,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,497,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,629,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,85,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,273,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,370,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,483,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,301,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,96,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,63,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,248,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,583,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,666,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,251,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,145,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,657,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,385,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,424,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,245,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,197,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,469,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,91,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,254,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,89,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,310,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,421,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,257,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,70,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,564,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,155,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,386,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,486,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,108,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,613,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,51,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,144,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,305,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,269,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,64,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,14,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,609,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,157,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,290,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,7,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,457,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,192,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,142,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,181,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,346,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,217,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,300,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,362,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,551,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,648,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,646,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,402,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,164,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,437,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,182,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,240,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,62,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,219,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,230,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,325,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,414,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,558,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,72,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,184,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,492,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,516,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,274,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,384,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,160,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,225,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,616,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,128,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,167,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,501,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,654,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,198,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,177,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,635,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,168,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,268,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,546,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,282,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,515,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,446,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,534,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,221,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,231,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,419,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,209,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,553,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,284,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,408,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,214,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,350,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,126,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,380,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,495,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,543,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,115,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,13,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,334,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,203,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,285,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,56,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,39,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,354,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,412,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,615,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,610,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,127,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,323,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,134,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,514,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,188,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,202,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,187,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,79,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,651,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,314,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,505,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,17,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,565,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,53,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,113,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,340,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,511,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,42,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,465,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,82,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,40,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,215,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,104,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,138,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,294,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,94,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,475,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,391,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,368,Yes,UK,London,+44
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,232,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,560,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,159,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,359,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,261,No,Germany,Berlin,+49
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,59,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,154,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,604,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,352,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,133,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,644,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,542,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,344,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,36,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,500,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,333,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,200,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,199,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,295,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,107,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,586,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,599,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,473,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,520,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,260,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,117,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,498,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,223,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,124,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,585,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,550,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,312,No,Canada,Toronto,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,579,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,617,Yes,UK,London,+44
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,356,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,283,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,76,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,267,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,93,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,606,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,129,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,636,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,527,Yes,UK,London,+44
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,576,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,433,No,Canada,Toronto,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,653,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,141,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,502,No,Germany,Berlin,+49
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,23,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,338,Yes,USA,New York,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,652,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,507,No,Canada,Toronto,+1
+Supplier C,789 Oak St,supplierC@example.com,3456789012,2987654319,33334444,45,Yes,UK,London,+44
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,220,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,101,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,30,Yes,USA,New York,+1
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,193,Yes,USA,New York,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,396,No,Germany,Berlin,+49
+Supplier A,123 Main St,supplierA@example.com,1234567890,0987654321,11112222,66,Yes,USA,New York,+1
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,189,No,Canada,Toronto,+1
+Supplier D,321 Pine St,supplierD@example.com,4567890123,3987654318,44445555,427,No,Germany,Berlin,+49
+Supplier B,456 Maple Ave,supplierB@example.com,2345678901,1987654320,22223333,256,No,Canada,Toronto,+1
