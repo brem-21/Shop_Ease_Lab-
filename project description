@@ -1,0 +1,77 @@
+ShopEase Data Engineering Project
+Project Overview
+The ShopEase Data Engineering Project is designed to demonstrate how to apply advanced data manipulation, SQL queries, and optimization techniques to real-world e-commerce data. This project is aimed at improving business decision-making for ShopEase, an e-commerce company that seeks to analyze its sales data more effectively. The project includes multiple lab exercises that cover tasks such as data loading, cleaning, analysis, and visualization, as well as more advanced database operations, including SQL queries, window functions, and database optimization techniques.
+
+Key Objectives
+Enhance Python and SQL skills for data manipulation and analysis.
+Write complex SQL queries for data retrieval, optimization, and analysis.
+Implement database optimization techniques to improve query performance.
+Integrate Python with SQL for advanced data engineering tasks such as triggers and stored procedures.
+Tasks and Deliverables
+The project consists of five main lab exercises, each focusing on different aspects of data engineering:
+
+Lab Exercise 1: Advanced Python with Pandas and NumPy
+
+Load, clean, and manipulate sales data using Pandas and NumPy.
+Perform data transformations and visualizations to analyze sales trends.
+Connect to a MySQL/Postgres database and load the cleaned data into it.
+Lab Exercise 2: Complex SQL Queries
+
+Write SQL queries to join multiple tables and extract meaningful insights.
+Use subqueries, CASE statements, and query optimization techniques.
+Lab Exercise 3: SQL Window Functions
+
+Implement advanced SQL window functions (e.g., ROW_NUMBER(), RANK(), LEAD(), and LAG()) to analyze sales trends and customer behavior.
+Lab Exercise 4: Database Optimization
+
+Analyze and optimize database queries through execution plans.
+Create indexes and implement partitioning strategies to improve performance.
+Normalize database schema to reduce redundancy and improve efficiency.
+Lab Exercise 5: Integrating Python with SQL for Data Engineering
+
+Create a trigger to update inventory after order placement.
+Write a stored procedure to update customer status based on their total order value.
+Technologies Used
+Python (Pandas, NumPy) for data manipulation, cleaning, and analysis.
+MySQL/PostgreSQL for database management and running SQL queries.
+SQL for writing complex queries, subqueries, and utilizing window functions.
+Jupyter Notebook for interactive development and documentation of the Python code.
+Project Structure
+The project is organized into separate folders and files for clarity:
+
+ShopEase Data: Contains the raw CSV data files provided for the project (orders, products, customers, inventory, etc.).
+Notebooks: Contains the Jupyter notebook for Lab Exercise 1 (Python data manipulation and visualization).
+SQL: Contains SQL scripts for Lab Exercises 2–5 (complex queries, optimizations, triggers, and stored procedures).
+Documentation: Contains any additional documentation or explanations of the project workflow.
+Setup Instructions
+Clone this Repository Clone the repository to your local machine using Git:
+
+bash
+Copy code
+git clone https://github.com/your-username/ShopEase-Data-Engineering.git
+Install Required Python Libraries Ensure that you have the required libraries installed:
+
+bash
+Copy code
+pip install pandas numpy mysql-connector-python psycopg2 matplotlib
+Database Setup
+
+Set up a MySQL or PostgreSQL database instance on your local machine or remote server.
+Import the provided CSV data into the database (tables and schema will be created as part of the Lab Exercise 1 Python script).
+Run the Python Script (Lab 1) Open the Jupyter notebook in the Notebooks folder to perform data cleaning, transformation, and analysis. Follow the instructions within the notebook for data loading and visualization.
+
+Execute SQL Queries (Lab 2–5) Run the SQL scripts provided in the SQL folder to execute and optimize your SQL queries, including creating indexes, writing complex queries, and implementing triggers and stored procedures.
+
+Example Outputs
+Lab 1 Output: After completing Lab Exercise 1, the notebook will display visualizations such as monthly sales trends, as well as a few sample rows from the data loaded into your database.
+
+Lab 2–5 Outputs: After completing the SQL exercises, you will submit the SQL queries and include screenshots showing the impact of optimizations and profiling results.
+
+Learning Outcomes
+By the end of this project, you will be able to:
+
+Apply advanced Python techniques using Pandas and NumPy for data analysis.
+Write complex SQL queries, including joins, subqueries, and window functions.
+Optimize SQL queries using indexing, partitioning, and execution plans.
+Integrate Python with SQL to automate database operations like triggers and stored procedures.
+Gain hands-on experience with real-world data engineering tasks in an e-commerce context.
